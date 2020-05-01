@@ -24,7 +24,7 @@ AGBtot$rep <- as.factor(AGBtot$rep)
 ## DATA: This data was collected from model simulations using the Community Land Model Functionally Assembled Terrestrial Ecosystem Simulator (CLM(FATES))
 ## In this study logging treatment activities were performed at different timelines to determine the impact of logging representation on simulated Above Ground Biomass (AGB).
 ## This dataset was originally in a NetCDF format. Data was reorganized and "tidied" in another set of R scripts. If you are interested in how the author 
-## reorganized and "tidied" the data, then please visit the repository on GitHub: <insert link here>.
+## reorganized and "tidied" the data, then please visit the repository on GitHub: https://github.com/KatieMurenbeeld/EEB622.
 ## YEAR: Is the model year in the simulation.
 ## Treatment: Logging treatments tested in the CLM(FATES) simulations. Control = no logging occurred, Log_Single = logging occurred at a single time step (model year 2079),
 ## Log_Sequential = logging that occured at multiple time steps (model years 2079, 2081, 2083).
